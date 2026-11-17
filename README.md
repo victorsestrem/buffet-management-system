@@ -13,7 +13,7 @@
 
 **Stack:** Next.js 16 with React 19, TypeScript, PostgreSQL 17, Drizzle ORM, Better Auth, pg-boss job queue, pdf-lib for contracts, nodemailer with per-venue SMTP, Zod, Tailwind CSS 4, Vitest and Playwright, Docker Compose with Caddy and daily backups per installation. Payment (Pix and bank slip via Asaas) and electronic signature (ZapSign) integrations are built and tested in sandbox, shipped disabled.
 
-**Status:** product in development by my studio for party venues in Brazil, built from October 29 to November 17, 2026. Versions 1 and 2 are feature complete with a seeded sample venue, sales material, and an installation runbook; the first pilot installation is the next step. No venue is running it yet.
+**Status:** product in development by my software company for party venues in Brazil, built from October 29 to November 17, 2026. Versions 1 and 2 are feature complete with a seeded sample venue, sales material, and an installation runbook; the first pilot installation is the next step. No venue is running it yet.
 
 ## Problem → Solution
 
